@@ -42,7 +42,27 @@ body {
 
 
 /* Donate Section Start */
-.donate-today {
-    font-size: 60px;
-
+.donate-today{
+    padding: 80px 50px;
+}
+.main-title {
+    text-align: center;
+}
+.price-sec{
+    display: flex;
+    width: 90%;
+    padding-left: 7.5%;
+    margin-top: 0%;
+}
+.price-sec p {
+    font-family: arial;
+    width: 25%;
+    background-color: rgba(189, 189, 189, 0.219);
+    padding: 80px 5px 80px 5px;
+    margin-right: 5%;
+    text-align: center;
+    font-size: 35px;
+    border-radius: 10px;
+    font-weight: bolder;
+    color: rgba(97, 97, 97, 0.678);
 }
