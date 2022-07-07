@@ -145,3 +145,18 @@ li{
     border-radius: 5px;
     font-weight: 700;
 }
+.font{
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+    background-color: black;
+    padding-top: 8%;
+}
+footer{
+    font-size: small;
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
