@@ -134,7 +134,14 @@ li{
     padding-top: 10%;
     font-size: 30px;
 
+   
 }
-.image{
-    padding-top: 8%;
+
+.link-button {
+    color: aliceblue;
+    background-image: linear-gradient(red, tomato);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
 }
